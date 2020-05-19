@@ -8,4 +8,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 # Live
 
-[Live Preview](https://github.com/stankovics/CSSGridContactForm.github.io)
+[Live Preview](https://stankovics.github.io/CSSGridContactForm.github.io/)
